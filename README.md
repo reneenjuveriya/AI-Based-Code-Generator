@@ -15,7 +15,10 @@ focus on the necessary parts of the input sequence as per the demands of the tas
 
 ## OUTPUT : 
 
+<img width="541" alt="Screenshot 2023-04-30 135249" src="https://github.com/reneenjuveriya/AI-Based-Code-Generator/assets/93391666/f0e23dd5-ff3c-43d3-9f59-1d2898072f78">
+</br>
+</br>
 <img width="541" alt="Screenshot 2023-04-30 140109" src="https://github.com/reneenjuveriya/AI-Based-Code-Generator/assets/93391666/3b90c1d0-d700-44cd-8411-62a6e029a46e">
-![Uploading Screenshot 2023-04-30 135249.png…]()
+</br>
+</br>
 <img width="541" alt="Screenshot 2023-04-30 135629" src="https://github.com/reneenjuveriya/AI-Based-Code-Generator/assets/93391666/f104e715-f6e3-41ea-838f-08b03fce91b6">
-
